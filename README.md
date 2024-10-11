@@ -1,0 +1,1 @@
+Goggles stay on.
