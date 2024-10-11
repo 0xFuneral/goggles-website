@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.53a8b16a.css",
+    "main.js": "/static/js/main.e01b60d4.js",
+    "static/media/home-bg.jpg": "/static/media/home-bg.71bad26fbc491419fc17.jpg",
+    "static/media/home-bg-small.jpg": "/static/media/home-bg-small.740705229c5db2a0c4ba.jpg",
+    "static/media/goggles-flying.png": "/static/media/goggles-flying.d42cd61c9f690a69bffa.png",
+    "static/media/goggles-stay-on.png": "/static/media/goggles-stay-on.4653d7f5a9478cb8e3b6.png",
+    "static/media/goggles-360.gif": "/static/media/goggles-360.fca6c69a84fb9439cf24.gif",
+    "static/media/logo.png": "/static/media/logo.028cb334955a7281cc63.png",
+    "static/media/twitter.png": "/static/media/twitter.d625a0aeedba11fb36c1.png",
+    "static/media/discord.png": "/static/media/discord.2c40bd6e031415ba0f93.png",
+    "index.html": "/index.html",
+    "main.53a8b16a.css.map": "/static/css/main.53a8b16a.css.map",
+    "main.e01b60d4.js.map": "/static/js/main.e01b60d4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53a8b16a.css",
+    "static/js/main.e01b60d4.js"
+  ]
+}
