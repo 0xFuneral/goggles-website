@@ -1,21 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.dfb9f814.css",
-    "main.js": "/static/js/main.11274ac0.js",
+    "main.css": "/static/css/main.fe2f92e2.css",
+    "main.js": "/static/js/main.657086f1.js",
     "static/media/home-bg.jpg": "/static/media/home-bg.71bad26fbc491419fc17.jpg",
     "static/media/home-bg-small.jpg": "/static/media/home-bg-small.740705229c5db2a0c4ba.jpg",
     "static/media/goggles-flying.png": "/static/media/goggles-flying.d42cd61c9f690a69bffa.png",
     "static/media/goggles-stay-on.png": "/static/media/goggles-stay-on.4653d7f5a9478cb8e3b6.png",
+    "static/media/JEETS.GIF": "/static/media/JEETS.05b1c05262d4e3049e7d.GIF",
     "static/media/goggles-360.gif": "/static/media/goggles-360.fca6c69a84fb9439cf24.gif",
     "static/media/logo.png": "/static/media/logo.028cb334955a7281cc63.png",
     "static/media/twitter.png": "/static/media/twitter.d625a0aeedba11fb36c1.png",
     "static/media/discord.png": "/static/media/discord.2c40bd6e031415ba0f93.png",
     "index.html": "/index.html",
-    "main.dfb9f814.css.map": "/static/css/main.dfb9f814.css.map",
-    "main.11274ac0.js.map": "/static/js/main.11274ac0.js.map"
+    "main.fe2f92e2.css.map": "/static/css/main.fe2f92e2.css.map",
+    "main.657086f1.js.map": "/static/js/main.657086f1.js.map"
   },
   "entrypoints": [
-    "static/css/main.dfb9f814.css",
-    "static/js/main.11274ac0.js"
+    "static/css/main.fe2f92e2.css",
+    "static/js/main.657086f1.js"
   ]
 }
