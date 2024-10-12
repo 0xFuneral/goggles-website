@@ -1,8 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.abe17aaf.css",
+    "main.css": "/static/css/main.b7a6d4cc.css",
     "main.js": "/static/js/main.657086f1.js",
-    "static/media/sky.mp4": "/static/media/sky.1d6795b33f988f200af7.mp4",
     "static/media/home-bg.jpg": "/static/media/home-bg.71bad26fbc491419fc17.jpg",
     "static/media/home-bg-small.jpg": "/static/media/home-bg-small.740705229c5db2a0c4ba.jpg",
     "static/media/goggles-flying.png": "/static/media/goggles-flying.d42cd61c9f690a69bffa.png",
@@ -13,11 +12,11 @@
     "static/media/twitter.png": "/static/media/twitter.d625a0aeedba11fb36c1.png",
     "static/media/discord.png": "/static/media/discord.2c40bd6e031415ba0f93.png",
     "index.html": "/index.html",
-    "main.abe17aaf.css.map": "/static/css/main.abe17aaf.css.map",
+    "main.b7a6d4cc.css.map": "/static/css/main.b7a6d4cc.css.map",
     "main.657086f1.js.map": "/static/js/main.657086f1.js.map"
   },
   "entrypoints": [
-    "static/css/main.abe17aaf.css",
+    "static/css/main.b7a6d4cc.css",
     "static/js/main.657086f1.js"
   ]
 }
